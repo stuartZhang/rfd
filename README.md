@@ -10,6 +10,10 @@
 
 ![rfd-修复成果](https://github.com/user-attachments/assets/6585399b-74f6-4c38-bf1e-4bea445b3c7f)
 
+### 有坑
+
+简单地讲，按钮的本文标签不支持【中文】，虽然标题与正文都能正常地显示中文字符。
+
 ## 其它简介
 
 ![img](https://github.com/PolyMeilex/rfd/assets/20758186/9bef59fa-60f0-448c-b9db-44ab436ee611)
